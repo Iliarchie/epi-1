@@ -1,0 +1,11 @@
+.users__list-name {
+  font-family: var(--font-family);
+  font-weight: 400;
+  font-size: 24px;
+  color: var(--dark-blue); }
+
+.users__list-subtitle {
+  font-family: var(--font-family);
+  font-weight: 400;
+  font-size: 16px;
+  color: var(--blue); }
